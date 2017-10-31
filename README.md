@@ -1,7 +1,7 @@
 # Grade-Management-System
-developed by ooer and his team
-This program is developed for the Beijing Jiao Tong University Weihai campus physics lab.
-Using PHP,Javascript,and Vue.js
+developed by Wu Yudong and his team named 1030.
+This program is developed for the Beijing Jiao Tong University Weihai campus Data Structure project.
+Using C.
 developer List:
 * Wu Yudong		16711031@bjtu.edu.cn
 * Xu Zhuoran		16711035@bjtu.edu.cn
